@@ -25,19 +25,19 @@ In the project directory, you can run:
 
 ## Login Page Added.
 
-<img src='screenshots/login_page.PNG'>
+<img src='screenshots/login_page.png'>
 
 ## Dashboard Page Added.
 
-<img src='screenshots/home.PNG'>
+<img src='screenshots/home.png'>
 
 ## Add School Page Added.
 
-<img src='screenshots/add_school.PNG'>
+<img src='screenshots/add_school.png'>
 
 ## View School Page Added.
 
-<img src='screenshots/view_school.PNG'>
+<img src='screenshots/view_school.png'>
 
 ## Edit and Update School Page Added .
 
@@ -45,11 +45,11 @@ In the project directory, you can run:
 
 ## Add Product Page Added .
 
-<img src='screenshots/add_product.PNG'>
+<img src='screenshots/add_product.png'>
 
 ## Edit Product Page Added .
 
-<img src='screenshots/edit_product.PNG'>
+<img src='screenshots/edit_product.png'>
 
 ## Added Add Staff Page
 
